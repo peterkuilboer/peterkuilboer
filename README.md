@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working on several cool projects using more and more Python. Also learning Go(Lang).<br>I've mostly used private repo's but when I find some time I will publish some (open source) code through public repo's.<br><br> ... Our continuing mission: To seek output<br>     knowledge of C, to explore strange<br>     UNIX commands, and to boldly code<br>        where no one has man page 4<br>                           - Brett L. Huber
+I'm currently working on several cool projects (using more and more Python). Most of my code lives in private repositories but when I find some time I will publish some of my (open source) code through public repositories.<br>
+<br>
+> ... Our continuing mission: To seek output
+>     knowledge of C, to explore strange
+>     UNIX commands, and to boldly code
+>        where no one has man page 4.
+>                           - Brett L. Huber
 
 
 ## 🌐 Socials:
@@ -18,10 +24,9 @@ I'm currently working on several cool projects using more and more Python. Also 
 ---
 [![](https://visitcount.itsvg.in/api?id=PeterKuilboer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!--
 ### Hi there 👋
 
-<!--
 **peterkuilboer/peterkuilboer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
